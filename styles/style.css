@@ -24,3 +24,14 @@
 #londonHeading {
     background-color: pink;
 }
+
+.fillerText {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+
+.fillerParagraph {
+    border: 10px lightgreen ridge;
+}
